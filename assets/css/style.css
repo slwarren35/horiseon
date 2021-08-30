@@ -22,7 +22,7 @@ header h1 {
     font-size: 48px;
 }
 
-span {
+header h1 span {
     color: #d9dcd6;
 }
 
@@ -56,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/*Hero Styling Start*/
 .hero {
     height: 800px;
     width: 100%;
@@ -64,6 +65,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/*Hero Styling Start*/
 
 .float-left {
     float: left;
