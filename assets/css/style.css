@@ -69,24 +69,9 @@ header a {
 }
 /*Hero Styling Stop*/
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
 
 /* Benefits Section Styling*/
-.benefits {
+.benefits-section {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -114,8 +99,14 @@ header a {
     max-width: 150px;
 }
 
-/* Online Services Section */
-.search-engine-optimization {
+/* Online Services Section Style Start */
+.online-services {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.online {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -124,50 +115,27 @@ header a {
     color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img {
+.online img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+.online h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.float-left {
+    float: left;
+    margin-right: 25px;
 }
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+.float-right {
+    float: right;
+    margin-left: 25px;
 }
+
+
+/* Online Services Section Style Stop */
 
 /*Footer Style Start*/
 footer {
