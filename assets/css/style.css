@@ -8,6 +8,10 @@ body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+}
+
 /*Header style Start*/
 
 header {
@@ -52,9 +56,7 @@ header a {
 /* Navigation Bar Style Stop */
 
 /* Header Style Stop*/
-p {
-    font-size: 16px;
-}
+
 
 /*Hero Styling Start*/
 .hero {
@@ -65,7 +67,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-/*Hero Styling Start*/
+/*Hero Styling Stop*/
 
 .float-left {
     float: left;
@@ -83,6 +85,7 @@ p {
     margin-left: 20px;
 }
 
+/* Benefits Section Styling*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -94,54 +97,24 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* Online Services Section */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
