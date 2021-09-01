@@ -30,6 +30,7 @@ header h1 span {
     color: #d9dcd6;
 }
 
+
 /*Navigation Bar Style Start*/
 header nav {
     padding-top: 15px;
@@ -70,7 +71,7 @@ header a {
 /*Hero Styling Stop*/
 
 
-/* Benefits Section Styling*/
+/* Benefits Section Style Start*/
 .benefits-section {
     margin-right: 20px;
     padding: 20px;
@@ -98,6 +99,9 @@ header a {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Benefits Section Style Stop*/
+
 
 /* Online Services Section Style Start */
 .online-services {
