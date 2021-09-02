@@ -71,38 +71,6 @@ header a {
 /*Hero Styling Stop*/
 
 
-/* Benefits Section Style Start*/
-.benefits-section {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-.benefit {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-
-.benefit h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* Benefits Section Style Stop*/
-
-
 /* Online Services Section Style Start */
 .online-services {
     width: 75%;
@@ -140,6 +108,40 @@ header a {
 
 
 /* Online Services Section Style Stop */
+
+
+/* Benefits Section Style Start*/
+.benefits-section {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+
+.benefit {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Benefits Section Style Stop*/
+
+
 
 /*Footer Style Start*/
 footer {
